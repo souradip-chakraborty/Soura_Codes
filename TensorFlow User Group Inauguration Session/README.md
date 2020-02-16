@@ -1,6 +1,6 @@
 # About TensorFlow_UserGroup_Kolkata
 
-TensorFlow User Group Kolkata(TFUG Kol) is a professional community bringing together machine learning practitioners of the city to discuss, network and collaborate how they use TensorFlow for their development needs. It is a local community of the people, by the people, and for everyone who is a developer, researcher, user, teacher or writer, interested in Machine Learning. With this as the primary mission,  the inaugural event ‘from tfug import Kolkata’ was hosted on 15th February 2020 at Moot Court, Sister Nivedita University. For this event, we had two sessions. You can find the meetup link here
+TensorFlow User Group Kolkata(TFUG Kol) is a professional community bringing together machine learning practitioners of the city to discuss, network and collaborate how they use TensorFlow for their development needs. It is a local community of the people, by the people, and for everyone who is a developer, researcher, user, teacher or writer, interested in Machine Learning. With this as the primary mission,  the inaugural event ‘from tfug import Kolkata’ was hosted on 15th February 2020 at Moot Court, Sister Nivedita University. You can find the meetup link [here](https://www.meetup.com/TFUG-Kol/events/268165444/)
 
  
 # About Session on Bidirectional Encoder Representations from Transformers
