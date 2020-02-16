@@ -1,0 +1,8 @@
+# About TensorFlow_UserGroup_Kolkata
+
+TensorFlow User Group Kolkata(TFUG Kol) is a professional community bringing together machine learning practitioners of the city to discuss, network and collaborate how they use TensorFlow for their development needs. It is a local community of the people, by the people, and for everyone who is a developer, researcher, user, teacher or writer, interested in Machine Learning. With this as the primary mission,  the inaugural event ‘from tfug import Kolkata’ was hosted on 15th February 2020 at Moot Court, Sister Nivedita University. For this event, we had two sessions. You can find the meetup link here
+
+ 
+# About Session on Bidirectional Encoder Representations from Transformers
+
+Transformer networks have proven to be the State of the Art in a majority of the NLP tasks and have significantly outperformed the traditional as well as the very popular sequential models like LSTMs as well. Self Attention(Single& Multiheads) plays a significant role in achieving such exceptional accuracy in the NLP tasks. In this session, I will be discussing about the Attention mechanism in detail starting from the Global attention to Local Attention and introduce the Bidirectional Encoder Representations from Transformers(BERT). The BERT model which is bi-directionally trained can have a deeper sense of language context and flow than single-direction language models for which it has outperformed all previous NLP models. Finally, I will show the implementation using TF 2.0 and show its easiness of applicability. The entire task will be performed in Google COLAB.
