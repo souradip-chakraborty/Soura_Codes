@@ -12,3 +12,4 @@ This was a live webinar Link : https://www.youtube.com/watch?v=6rWvmwucgZM
 In this session, I have tried to cover the primary sources and materials to start off your career in Machine Learning starting from Masters course in different universities,use of Kaggle kernels and Colab Notebooks, most important courser courses to implementing statistical tests in a dataset and performing  some basic methods in Machine Learning like Decision Tree, Random Forest, Logistic Regression etc.
 
 Finally, I have solved a problem using the Linear Regression approach and have shown that MLE solution and the OLS solution converges at the same value.
+![](https://github.com/souradip-chakraborty/Soura_Codes/blob/master/Basics%20of%20Machine%20Learning-%20Sources%20and%20Materials/image1.png)
