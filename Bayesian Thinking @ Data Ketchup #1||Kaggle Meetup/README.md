@@ -5,10 +5,10 @@ This was one of the major motivations for this talk and I have tried to give an 
 
 I have written a blog as well : [Bayesian Thinking](https://medium.com/@souradip_chak/bayesian-thinking-estimating-posterior-distribution-for-linear-regression-data-ketchup-2f50a597eb06)
 
-![Data Ketchup #1||Kaggle Meetup]()
-
-P.S — I am still adding certain materials to the blog before I publish it officially. I will add a bit more details to MLE as participants were not completely comfortable with that and also show an use-case that was asked in the talk. So, keep following.
+![Data Ketchup #1||Kaggle Meetup](https://github.com/souradip-chakraborty/Soura_Codes/blob/master/Bayesian%20Thinking%20%40%20Data%20Ketchup%20%231%7C%7CKaggle%20Meetup/image2.jpeg)
 
 There were a few articles and blogs on the same but the mathematical aspects of Bayesian were not very clearly mentioned which was a point of focus for this blog.
-![Markov Chain Monte Carlo and Posterior Distributions]()
+![Markov Chain Monte Carlo and Posterior Distributions](https://github.com/souradip-chakraborty/Soura_Codes/blob/master/Bayesian%20Thinking%20%40%20Data%20Ketchup%20%231%7C%7CKaggle%20Meetup/image1.jpeg)
+
+P.S — I am still adding certain materials to the blog before I publish it officially. I will add a bit more details to MLE as participants were not completely comfortable with that and also show an use-case that was asked in the talk. So, keep following.
 
